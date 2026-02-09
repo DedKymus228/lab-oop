@@ -1,0 +1,37 @@
+# --- JetBrains Rider / IntelliJ ---
+.idea/
+*.sln.iml
+*.csproj.iml
+
+# --- MS Build & .NET (C#) ---
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# --- CMake (C++) ---
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# --- Compiled Files (Executables) ---
+*.exe
+*.dll
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+
+# --- Logs & OS files ---
+*.log
+.DS_Store
+Thumbs.db

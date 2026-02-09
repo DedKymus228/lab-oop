@@ -1,0 +1,19 @@
+﻿# --- JetBrains Rider ---
+.idea/
+*.sln.iml
+*.csproj.iml
+
+# --- .NET Build Output () ---
+bin/
+obj/
+
+# --- Visual Studio Artifacts ---
+.vs/
+*.user
+*.userosscache
+*.suo
+
+# --- OS Related ---
+[Dd]ebug/
+[Rr]elease/
+*.log
