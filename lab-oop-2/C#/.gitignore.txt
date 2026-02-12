@@ -1,0 +1,32 @@
+
+
+## [Visual Studio / JetBrains Rider]
+# Папки с результатами сборки
+bin/
+obj/
+
+
+.idea/
+.vs/
+*.user
+*.userosscache
+*.sln.doccache
+
+
+*.suo
+*.user
+*.userosscache
+*.sln.doccache
+
+## [NuGet]
+
+packages/
+*.nuget.props
+*.nuget.targets
+
+## [OS]
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
